@@ -1,8 +1,8 @@
-Hi everyone!!! I'm Lucas and this is my profile ==>
+Hi everyone👋 I'm Lucas Mendes and this is my profile ==>
 
-🇧🇷 I'm brazilian 
-☕ My favorite drink is coffee 
-📚 I study at UFSM - Systems of internet
-🕶️ My hobbies are games, series, coffee and guitar
+🇧🇷 I'm brazilian
+📚 I'm studying at UFSM - Internet systems
+🕶️ My hoobies are: games, guitar, series, food and meet people
+☕ Coffee is the best drink of the earth
 
 
