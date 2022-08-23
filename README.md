@@ -6,8 +6,8 @@ Hello everyone 👋 I'm Lucas and this is me -->
 - ☕ Coffee is the best drink of the earth
 ##
 <div>
-    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasm3ndales&langs_count=8&theme=tokyonight">
-    <img height="250em" src="https://github-readme-stats.vercel.app/api?username=lucasm3ndales&count_private=true&theme=tokyonight">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasm3ndales&langs_count=8&theme=tokyonight">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasm3ndales&count_private=true&theme=tokyonight">
 </div>
 
 ##
