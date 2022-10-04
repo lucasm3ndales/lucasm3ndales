@@ -5,12 +5,6 @@ Hello everyone 👋 I'm Lucas and this is me -->
 - 🕶️ My hoobies are: games, guitar, series, cook and meet people
 - ☕ Coffee is the best drink of the earth
 ##
-<div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasm3ndales&langs_count=8&theme=tokyonight">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasm3ndales&count_private=true&theme=tokyonight">
-</div>
-
-##
 💬 Social links -->
 <div>
     <a href="mailto:lucas.gonzales@acad.ufsm.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
