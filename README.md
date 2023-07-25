@@ -13,10 +13,8 @@ Hello everyone 👋 I'm Lucas and this is me -->
 ##
 💻 Technologies -->
 <div>
-    <a><img height='80em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /></a>
-    <a><img height='80em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
-    <a><img height='80em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
     <a><img  height='80em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
-    <a><img height='80em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-</a>
+    <a><img height='80em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /></a>
+    <a><img height='80em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
+
 </div>
