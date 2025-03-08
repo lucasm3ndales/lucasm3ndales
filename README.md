@@ -7,7 +7,7 @@
 ##
 
 💻 Tech Skills -->
-<div display='inline'>
+<div style="display: flex; flex-direction: row; gap: 3px;">
     <a><img height='60em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /></a>
     <a><img height='60em' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" /></a>
     <a><img height='60em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" /></a>
