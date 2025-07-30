@@ -8,12 +8,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasm3ndales.lucasm3ndales&left_color=dimgrey&right_color=dodgerblue&left_text=Visitors"  />
-</div>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
